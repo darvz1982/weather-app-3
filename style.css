@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background: url('https://source.unsplash.com/1600x900/?landscape');
+    color: black;
+    font-family: 'Lobster', cursive;
+    font-family: 'Patua One', cursive;
+    justify-content: center;
+}
+
+.error {
+    display: none;
+}
+.search {
+    display: flex;
+    background: rgb(97, 96, 96, .5);
+    padding: 1em;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+}
+
+.form {
+    border: rgb(97, 96, 96);
+    padding: 1em;
+}
+
+.card {
+    margin-left: 20px;
+}
+
+.iconDescription {
+    display: flex;
+}
+
+.card {
+    margin-left: 20px;
+}
+
+.iconDescription {
+    display: flex;
+}
+
+.container {
+    background: rgb(97, 96, 96, .5);
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+}
